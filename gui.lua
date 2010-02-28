@@ -254,6 +254,7 @@ local options = {
     },
 }
 
+
 	function Slippy:Register_Options_Frame() 
 	    LibStub("AceConfig-3.0"):RegisterOptionsTable("Slippy", slippy_options_frame)
 		--LibStub("AceConfig-3.0"):RegisterOptionsTable("Slippy", options)
@@ -294,7 +295,8 @@ local options = {
 			
 			
 	end
-	
+
+	--IGNORE THIS. This is from another project :3 --
 	
 	
 	
